@@ -24,8 +24,8 @@
 
 ### 2. 克隆项目
 ```bash
-git clone https://github.com/UIOSN/SE-Project.git
-cd SE-Project
+git clone https://github.com/UIOSN/XFeng.git
+cd XFeng
 ```
 
 ### 3. 后端 (`server`)
