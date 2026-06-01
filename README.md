@@ -1,7 +1,9 @@
-# 高考志愿填报辅助系统
+# 张小峰智能高考志愿填报系统
 
 本项目是一个帮助高中生进行高考志愿填报的辅助Web应用，提供院校查询、志愿管理和AI咨询等功能。
 
+
+<video src="https://github.com/user-attachments/assets/609c5652-cb06-4b46-9e8f-23d48656d3d9" controls autoplay loop muted width="100%"></video>
 ## ✨ 核心功能
 
 *   院校信息搜索与详情展示
